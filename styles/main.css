@@ -399,3 +399,23 @@ ul {
     margin: 0;
     padding: 0;
 }
+
+nav {
+  background-color: #f5b700;
+  color: white;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+}
+
+nav a {
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+img { 
+  width: 100%;
+  height: auto;
+}
