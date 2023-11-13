@@ -1,0 +1,28 @@
+html {
+    background: rgb(162, 255, 162);
+    color: black;
+}
+
+nav a {
+    font-size: 24px;
+    color: black;
+}
+
+nav li {
+    margin: 0 10px;
+}
+
+nav ul {
+    display: flex;
+}
+
+.main {
+    width: 800px;
+    margin: 0 auto;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
